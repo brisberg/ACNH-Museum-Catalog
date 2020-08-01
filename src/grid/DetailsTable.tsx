@@ -8,41 +8,8 @@ import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import TableSortLabel from '@material-ui/core/TableSortLabel';
-import { Data } from './FishData';
+import { Data, columns } from '../model/fishData';
 import { Order, stableSort, getComparator } from './sortUtils';
-
-interface Column {
-  id: 'name' | 'id' | 'price' | 'location' | 'shadow_size';
-  label: string;
-  minWidth?: number;
-  align?: 'right';
-  format?: (value: number) => string;
-}
-
-const columns: Column[] = [
-  { id: 'id', label: 'Id', minWidth: 100 },
-  { id: 'name', label: 'Name', minWidth: 170 },
-  {
-    id: 'price',
-    label: 'Price',
-    minWidth: 170,
-    align: 'right',
-  },
-  {
-    id: 'location',
-    label: 'Location',
-    minWidth: 170,
-    align: 'right',
-  },
-  {
-    id: 'shadow_size',
-    label: 'Shadow Size',
-    minWidth: 170,
-    align: 'right',
-  },
-];
-
-
 
 const useStyles = makeStyles({
   root: {

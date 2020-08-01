@@ -6,7 +6,7 @@ import MiniDrawerLayout from './layout/mini-drawer/MiniDrawerLayout';
 import AppToolbar from './AppToolbar';
 import AppNavList from './AppNavList';
 import StickyHeadTable from './grid/DetailsTable';
-import { Data, createData } from './grid/FishData';
+import { Data, createData } from './model/fishData';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
