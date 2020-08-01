@@ -5,6 +5,8 @@ import Typography from '@material-ui/core/Typography';
 import MiniDrawerLayout from './layout/mini-drawer/MiniDrawerLayout';
 import AppToolbar from './AppToolbar';
 import AppNavList from './AppNavList';
+import StickyHeadTable from './grid/DetailsTable';
+import { Data, createData } from './grid/FishData';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -25,6 +27,35 @@ const useStyles = makeStyles((theme: Theme) =>
 export default function App() {
   const classes = useStyles();
   const [open, setOpen] = React.useState(false);
+
+  // Fish json blob
+  const [fish, setFishState] = React.useState<{ loading: Boolean, fish: null | Data[] }>({
+    loading: false,
+    fish: null,
+  });
+
+  // Fetch fish on initialization
+  React.useEffect(() => {
+    setFishState({ loading: true, fish: null });
+    const apiUrl = `./data/fish.json`;
+    fetch(apiUrl)
+      .then((res) => res.json())
+      .then((fishData) => {
+        const fish = Object.keys(fishData).map((name: string) => {
+          const fish = (fishData as unknown as { [name: string]: Data })[name];
+          return createData(
+            fish.name,
+            fish.id,
+            fish.icon_url,
+            fish.price,
+            fish.location,
+            fish.shadow_size,
+            fish.months,
+          )
+        });
+        setFishState({ loading: false, fish });
+      });
+  }, []);
 
   const handleDrawerOpen = () => {
     setOpen(true);
@@ -68,6 +99,7 @@ export default function App() {
           nibh sit. Ornare aenean euismod elementum nisi quis eleifend. Commodo viverra maecenas
           accumsan lacus vel facilisis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a.
         </Typography>
+        <StickyHeadTable rows={fish.fish || []} />
       </main>
     </div>
   );
