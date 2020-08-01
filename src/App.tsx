@@ -50,7 +50,6 @@ export default function App() {
             fish.price,
             fish.location,
             fish.shadow_size,
-            fish.months,
           )
         });
         setFishState({ loading: false, fish });
