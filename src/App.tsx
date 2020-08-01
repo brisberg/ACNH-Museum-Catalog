@@ -2,7 +2,7 @@ import React from 'react';
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Typography from '@material-ui/core/Typography';
-import MiniDrawerLayout from './mini-drawer-layout/MiniDrawerLayout';
+import MiniDrawerLayout from './layout/mini-drawer/MiniDrawerLayout';
 import AppToolbar from './AppToolbar';
 import AppNavList from './AppNavList';
 
