@@ -1,0 +1,1078 @@
+{
+  "Bitterling": {
+    "name": "Bitterling",
+    "id": 1,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Bitterling",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/NH-Icon-bitterling.png/revision/latest?cb=20200401003128",
+    "image_url": "https://acnhapi.com/v1/images/fish/1",
+    "price": 900,
+    "location": "River",
+    "shadow_size": "1",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        11,
+        12
+      ],
+      "southern": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "catch_phrase": "I caught a bitterling! It's mad at me, but only a little.",
+    "museum_phrase": "Bitterlings hide their eggs inside large bivalves—like clams—where the young can stay safe until grown. The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites! It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?"
+  },
+  "Pale_chub": {
+    "name": "Pale chub",
+    "id": 2,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Pale_chub",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-palechub.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/2",
+    "price": 200,
+    "location": "River",
+    "shadow_size": "1",
+    "time": [
+      "9 AM - 4 PM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a pale chub! That name seems a bit judgy...",
+    "museum_phrase": "The pale chub is a river fish with simple back-and-silver coloring. Interestingly, the males' coloring becomes most vibrant when he's trying to attract a mate! Though normally plain, these fellows really know how to look stylish when they want to. Perhaps I could learn a thing or two from the pale chub..."
+  },
+  "Crucian_carp": {
+    "name": "Crucian carp",
+    "id": 3,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Crucian_carp",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/03/NH-Icon-cruciancarp.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/3",
+    "price": 160,
+    "location": "River",
+    "shadow_size": "2",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a crucian carp! My skills are sharp!",
+    "museum_phrase": "I wonder... Do you know how to tell the difference between a crucian carp and a standard-issue carp? It's quite easy to tell the two apart... One must simply locate the barbels. Or, rather, the lack of them! And just what is a barbel, you ask? Well, a barbel looks a little something like a mustache. A run-of-the-mill carp will sport this unsightly \"facial hair,\" while a crucian carp is considerably better groomed! I tried to grow a mustache when I was younger. It never did fill in quite right... All for the best in the end, as mustaches go so much better with noses than with beaks!"
+  },
+  "Dace": {
+    "name": "Dace",
+    "id": 4,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Dace",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Icon-dace.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/4",
+    "price": 240,
+    "location": "River",
+    "shadow_size": "3",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a dace! Hope I have some space!",
+    "museum_phrase": "Dace are shiny little fish that enjoy freshwater streams with gravelly bottoms and plenty of sunlight. What a fishy paradise...until the larger fish move in and begin eating the dace! Sadly, the shiny dace are easy for other fish to spot, which makes them a popular snack. However, this particular specimen here has no need to worry. There's a strict \"No Eating Your Neighbor\" policy at this institution."
+  },
+  "Carp": {
+    "name": "Carp",
+    "id": 5,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Carp",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Icon-carp.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/5",
+    "price": 300,
+    "location": "Pond",
+    "shadow_size": "4",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a carp! If I catch another they can carpool!",
+    "museum_phrase": "Oh, the carp... have you ever seen their teeth? For your sake, I hope you have not! Carp have teeth in their throat strong enough to crunch on hard things like shells and fingers! A good rule of thumb when dealing with other species is to keep your fingers out of their mouths. Although, having neither thumbs nor fingers, I am quite safe from this little fellow!"
+  },
+  "Koi": {
+    "name": "Koi",
+    "id": 6,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Koi",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Icon-koi.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/6",
+    "price": 4000,
+    "location": "Pond",
+    "shadow_size": "4",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a koi! I don't know why it's so shy... or such a bad speller...",
+    "museum_phrase": "Koi are a variety of carp bred for their color mutations...starting more than a thousand years ago! Well, one glance at their impressive coloring tells you that the centuries of effort were worth it. And even today people still selectively breed koi in search of new color combinations! One marvels at the thought of what the koi may look like in another thousand years."
+  },
+  "Goldfish": {
+    "name": "Goldfish",
+    "id": 7,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Goldfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/NH-Icon-goldfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/7",
+    "price": 1300,
+    "location": "Pond",
+    "shadow_size": "1",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a goldfish! It's worth its weight in fish!",
+    "museum_phrase": "Goldfish are so cute and delicate... but do you know how big they can get? Why, they can grow up to... a foot in length! Well, sometimes. The size of the tank they're kept in tends to restrict their growth. And just how big will this goldfish get in our large museum tank? I look forward to finding out!"
+  },
+  "Pop_eyed_goldfish": {
+    "name": "Pop-eyed goldfish",
+    "id": 8,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Pop-eyed_goldfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c9/NH-Icon-popeyedgoldfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/8",
+    "price": 1300,
+    "location": "Pond",
+    "shadow_size": "1",
+    "time": [
+      "9 AM - 4 PM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I got a pop-eyed goldfish! It looks so...surprised!",
+    "museum_phrase": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+  },
+  "Ranchu_goldfish": {
+    "name": "Ranchu goldfish",
+    "id": 9,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Ranchu_goldfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f9/NH-Icon-ranchugoldfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/9",
+    "price": 4500,
+    "location": "Pond",
+    "shadow_size": "2",
+    "time": [
+      "9 AM - 4 PM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!",
+    "museum_phrase": "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be..."
+  },
+  "Killifish": {
+    "name": "Killifish",
+    "id": 10,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Killifish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-killifish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/10",
+    "price": 300,
+    "location": "Pond",
+    "shadow_size": "1",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "southern": [
+        1,
+        2,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a killifish! The streams are safe again.",
+    "museum_phrase": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?"
+  },
+  "Crawfish": {
+    "name": "Crawfish",
+    "id": 11,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Crawfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cd/NH-Icon-crawfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/11",
+    "price": 200,
+    "location": "Pond",
+    "shadow_size": "2",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a crawfish! Or else it's a lobster and I'm a giant!",
+    "museum_phrase": "Ohoo! So you have found a crawfish. Neither crab nor lobster, crawfish evolved in an interesting manner. Beware their fearsome pinchy pinchers! Behold their many legs! I say! It is a big bug-like, eh wot...The more I look at it, the more unsettled I feel... Let's be done with this and never speak of it again, shall we?"
+  },
+  "Soft_shelled_turtle": {
+    "name": "Soft-shelled turtle",
+    "id": 12,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Soft-shelled_turtle",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c3/NH-Icon-softshelledturtle.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/12",
+    "price": 3750,
+    "location": "River",
+    "shadow_size": "4",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        8,
+        9
+      ],
+      "southern": [
+        2,
+        3
+      ]
+    },
+    "catch_phrase": "I caught a soft-shelled turtle! I can really shell it out!",
+    "museum_phrase": "These relatives of common turtles will not let go when they decide to bite down on something. Although they can be quite shy, they will become a bit aggressive when threatened. They are often found in water and are very good swimmers because of the flat shape of their shells. They swim with their snouts over the surface of the water so they can breathe. Soft-shelled turtles aren't safe to hold because they are so prone to biting at the slightest movement. However, if one bites down on you, it will usually let go when you put it safely back in the water."
+  },
+  "Snapping_Turtle": {
+    "name": "Snapping Turtle",
+    "id": 13,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Snapping_Turtle",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/24/NH-Icon-snappingturtle.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/13",
+    "price": 5000,
+    "location": "River",
+    "shadow_size": "4",
+    "time": [
+      "9 PM - 4 AM"
+    ],
+    "months": {
+      "northern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a snapping turtle! How can it snap without fingers?",
+    "museum_phrase": "The snapping turtle is a large turtle known for it's crocodile-like body and long claws. No, wait-- it is better known for it's ferocious bite, which it can deliver with shocking speed for a turtle. NO, WAIT-- it is BEST known for that time one chased me across a parking lot and I had to climb on top of a car."
+  },
+  "Tadpole": {
+    "name": "Tadpole",
+    "id": 14,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Tadpole",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1c/NH-Icon-tadpole.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/14",
+    "price": 100,
+    "location": "Pond",
+    "shadow_size": "1",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "southern": [
+        1,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a tadpole... It's just a tad small.",
+    "museum_phrase": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+  },
+  "Frog": {
+    "name": "Frog",
+    "id": 15,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Frog_(fish)",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/6b/NH-Icon-frog.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/15",
+    "price": 120,
+    "location": "Pond",
+    "shadow_size": "2",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "southern": [
+        1,
+        2,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a frog! Or it's a new neighbor...and I have some apologizing to do.",
+    "museum_phrase": "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince has arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!"
+  },
+  "Freshwater_goby": {
+    "name": "Freshwater goby",
+    "id": 16,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Freshwater_goby",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Icon-freshwatergoby.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/16",
+    "price": 400,
+    "location": "River",
+    "shadow_size": "2",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a freshwater goby! Time to go bye-bye!",
+    "museum_phrase": "The freshwater goby is an unassuming specimen. But beneath that calm, fish exterior, true gluttony resides! It will eat anything that will fit in its mouth...And its mouth is quite the gaping maw, so I recommend you refrain from drawing attention to yourself!"
+  },
+  "Loach": {
+    "name": "Loach",
+    "id": 17,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Loach",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/77/NH-Icon-loach.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/17",
+    "price": 400,
+    "location": "River",
+    "shadow_size": "2",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        3,
+        4,
+        5
+      ],
+      "southern": [
+        9,
+        10,
+        11
+      ]
+    },
+    "catch_phrase": "I caught a loach! It's...looking at me with reproach.",
+    "museum_phrase": "Loaches are a large group of bottom-feeding freshwater fish. Because there are so many species, it is difficult to generalize about them all. The one thing they all have in common is perhaps their most unappealing trait; the name 'loach.' Repellent, isn't it? They should have just called it the 'cockloach' and been done with it, eh wot! Loach...loach... It just tastes terrible in the beak."
+  },
+  "Catfish": {
+    "name": "Catfish",
+    "id": 18,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Catfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/29/NH-Icon-catfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/18",
+    "price": 800,
+    "location": "Pond",
+    "shadow_size": "4",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a catfish! I'm more of a dogfish person...",
+    "museum_phrase": "Catfish don't have scales and are rather slimy. Believe it or not, this slime helps them breathe! Some species of catfish are nocturnal, and they'll feed on almost anything. They use a suctioning action to pull in their food. Did I mention they can grow as large as you or I?"
+  },
+  "Giant_snakehead": {
+    "name": "Giant snakehead",
+    "id": 19,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Giant_snakehead",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Icon-giantsnakehead.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/19",
+    "price": 5500,
+    "location": "Pond",
+    "shadow_size": "5",
+    "time": [
+      "9 AM - 4 PM"
+    ],
+    "months": {
+      "northern": [
+        6,
+        7,
+        8
+      ],
+      "southern": [
+        1,
+        2,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a giant snakehead! Um...but I asked for a medium?",
+    "museum_phrase": "The giant snakehead is quite a sight to behold, wot! One glance conjurs up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+  },
+  "Bluegill": {
+    "name": "Bluegill",
+    "id": 20,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Bluegill",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/69/NH-Icon-bluegill.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/20",
+    "price": 180,
+    "location": "River",
+    "shadow_size": "2",
+    "time": [
+      "9 AM - 4 PM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a bluegill! Do you think it calls me \"pinklung\"?",
+    "museum_phrase": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+  },
+  "Yellow_perch": {
+    "name": "Yellow perch",
+    "id": 21,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Yellow_perch",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/1d/NH-Icon-yellowperch.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/21",
+    "price": 300,
+    "location": "River",
+    "shadow_size": "3",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "catch_phrase": "I caught a yellow perch! Those yellow birds have to sit somewhere!",
+    "museum_phrase": "The yellow perch is certainly worth squawking about. I find it a sight to behold! That jagged dorsal fin! Those brilliant stripes! Those glorious colours! Hoo, truly it is quite the specimen. I would be thrilled to witness it firsthand in its natural environment... But the yellow perch's peak season is winter, I'm afraid. (So very afraid... of winter's biting chill...)"
+  },
+  "Black_bass": {
+    "name": "Black bass",
+    "id": 22,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Black_bass",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e2/NH-Icon-blackbass.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/22",
+    "price": 400,
+    "location": "River",
+    "shadow_size": "4",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a black bass! The most metal of all fish!",
+    "museum_phrase": "The black bass is a formidably strong fish and, as such, is a common target for sport anglers. In some areas, there are even those who professionally catch just black bass! Yet in other areas where they are NOT native, they are considered an ecological nuisance. Invasive, even. One cannot help but wonder who is to blame for their invasion, hoo."
+  },
+  "Tilapia": {
+    "name": "Tilapia",
+    "id": 23,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Tilapia",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Icon-tilapia.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/23",
+    "price": 800,
+    "location": "River",
+    "shadow_size": "3",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "southern": [
+        1,
+        2,
+        3,
+        4,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a tilapia! It makes me happy-a!",
+    "museum_phrase": "Wherever the waters are warm, the tilapia can be found. It is a highly adaptable river fish. They mainly feed on algae, but they will also eat larvae and dead fish— or whatever fits in their mouths. I will confess that, as a growing owlet, I similarly defined food as 'anything that fits in my beak.'"
+  },
+  "Pike": {
+    "name": "Pike",
+    "id": 24,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Pike",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dc/NH-Icon-pike.png/revision/latest?cb=20200401003130",
+    "image_url": "https://acnhapi.com/v1/images/fish/24",
+    "price": 1800,
+    "location": "River",
+    "shadow_size": "5",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "southern": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "catch_phrase": "I caught a pike! Think a swordfish would be up for a duel?",
+    "museum_phrase": "The pike has always reminded me a bit of salmon, although a pike can grow rather larger. These brutes can grow to over four feet long, sometimes MUCH over! Hoo hoo! It is carnivorous and preys not only on other fish, but also mammals and some waterfowl. If I were to ever meet one in the water, I would have a most difficult time keeping my wits about me."
+  },
+  "Pond_smelt": {
+    "name": "Pond smelt",
+    "id": 25,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Pond_smelt",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/41/NH-Icon-pondsmelt.png/revision/latest?cb=20200401003130",
+    "image_url": "https://acnhapi.com/v1/images/fish/25",
+    "price": 500,
+    "location": "River",
+    "shadow_size": "2",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        12
+      ],
+      "southern": [
+        6,
+        7,
+        8
+      ]
+    },
+    "catch_phrase": "I caught a pond smelt! Whoever smelt it dealt it!",
+    "museum_phrase": "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything."
+  },
+  "Sweetfish": {
+    "name": "Sweetfish",
+    "id": 26,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Sweetfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/40/NH-Icon-sweetfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/26",
+    "price": 900,
+    "location": "River",
+    "shadow_size": "3",
+    "time": [
+      "All day"
+    ],
+    "months": {
+      "northern": [
+        7,
+        8,
+        9
+      ],
+      "southern": [
+        1,
+        2,
+        3
+      ]
+    },
+    "catch_phrase": "I caught a sweetfish! Hope it's not artificially sweet!",
+    "museum_phrase": "Sweetfish are the damp heralds of summer! These slippery fellows appear in numbers when it warms up. They hatch in a river, then swim to the ocean. Once mature, they return to the river where they were born. But when they return depends on the river temperature— if it's too cold their fishing season will start later. Some even say summer can't start without sweetfish despite the KEY role played by the earth's axial tilt!"
+  },
+  "Cherry_salmon": {
+    "name": "Cherry salmon",
+    "id": 27,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Cherry_salmon",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/NH-Icon-cherrysalmon.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/27",
+    "price": 1000,
+    "location": "River (Clifftop)",
+    "shadow_size": "3",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a cherry salmon! It's the perfect topper for a marlin sundae!",
+    "museum_phrase": "The cherry salmon is related to the salmon, and is known for its distinctive pattern of \"polka dots\". There polka dots disappear as they mature, but ONLY in the first of certain geographic regions. Pity the poor researchers that must make sense of the cherry salmon's fickle fashion sense."
+  },
+  "Char": {
+    "name": "Char",
+    "id": 28,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Char",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/15/NH-Icon-char.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/28",
+    "price": 3800,
+    "location": "River (Clifftop)  Pond",
+    "shadow_size": "3",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "catch_phrase": "I caught a char! Now I'm gonna sit on it!",
+    "museum_phrase": "The char is one of the bigger first around the world, and, in the world of fish, that's quite an accomplishment! They are territorial predators, and therefore must constantly defend their 'turf' from others. So when you see a large char like this one, it is likely a skilled fighter and veteran of many battles. My feathers! I hope it never has cause to go into battle with me!"
+  },
+  "Golden_trout": {
+    "name": "Golden trout",
+    "id": 29,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Golden_trout",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5c/NH-Icon-goldentrout.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/29",
+    "price": 15000,
+    "location": "River (Clifftop)",
+    "shadow_size": "3",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ],
+      "southern": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ]
+    },
+    "catch_phrase": "I caught a golden trout! But the real treasure? Friendship.",
+    "museum_phrase": "The golden trout is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything."
+  },
+  "Stringfish": {
+    "name": "Stringfish",
+    "id": 30,
+    "wiki_url": "https://animalcrossing.fandom.com/wiki/Stringfish",
+    "icon_url": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/7b/NH-Icon-stringfish.png/revision/latest?cb=20200401003129",
+    "image_url": "https://acnhapi.com/v1/images/fish/30",
+    "price": 15000,
+    "location": "River (Clifftop)",
+    "shadow_size": "5",
+    "time": [
+      "4 PM - 9 AM"
+    ],
+    "months": {
+      "northern": [
+        1,
+        2,
+        3,
+        12
+      ],
+      "southern": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "catch_phrase": "OH MY GOSH! I caught a stringfish! Five more and I'll have a guitarfish!",
+    "museum_phrase": "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large-perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race'"
+  }
+}
